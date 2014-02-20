@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pazguille/path](http://github.com/pazguille/path). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pazguille-path`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Path JS
 
 Simple routing library using HTML5 history.pushState or hashbang for web browsers.
